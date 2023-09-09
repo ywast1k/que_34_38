@@ -1,0 +1,15 @@
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.csproj.AssemblyReference.cache
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.AssemblyInfoInputs.cache
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.AssemblyInfo.cs
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.csproj.CoreCompileInputs.cache
+E:\GeekBrains\34,36,38\38_que\bin\Debug\net7.0\38_que.exe
+E:\GeekBrains\34,36,38\38_que\bin\Debug\net7.0\38_que.deps.json
+E:\GeekBrains\34,36,38\38_que\bin\Debug\net7.0\38_que.runtimeconfig.json
+E:\GeekBrains\34,36,38\38_que\bin\Debug\net7.0\38_que.dll
+E:\GeekBrains\34,36,38\38_que\bin\Debug\net7.0\38_que.pdb
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.dll
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\refint\38_que.dll
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.pdb
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\38_que.genruntimeconfig.cache
+E:\GeekBrains\34,36,38\38_que\obj\Debug\net7.0\ref\38_que.dll
